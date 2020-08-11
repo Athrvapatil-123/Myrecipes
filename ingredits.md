@@ -1,5 +1,3 @@
 1.tamirnd water
-2.boondi
-3.potato
-panipuri balls 
-Corander water 
+1.boondi
+1.potato
